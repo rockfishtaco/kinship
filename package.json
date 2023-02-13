@@ -1,0 +1,22 @@
+{
+  "name": "kinship",
+  "version": "1.0.0",
+  "description": "blog",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "y"
+  },
+  "keywords": [
+    "kin"
+  ],
+  "author": "anom",
+  "license": "ISC",
+  "homepage": "hhtps://rockfishtaco.github.io/kinship",
+  "dependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}
